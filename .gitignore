@@ -1,0 +1,14 @@
+# Ignore all venv folders
+**/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Ignore system files (Mac and Windows)
+.DS_Store
+Thumbs.db
